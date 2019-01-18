@@ -26,5 +26,5 @@ public class Guppy {
     private int identificationNumber;
 
     private static int numberOfGuppiesBorn = 0;  // NUMBER 3 LOOK AGAIN
-    
+
 }

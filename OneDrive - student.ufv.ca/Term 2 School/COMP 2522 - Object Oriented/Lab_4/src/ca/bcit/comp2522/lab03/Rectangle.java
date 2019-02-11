@@ -1,3 +1,5 @@
+package ca.bcit.comp2522.lab03;
+
 public class Rectangle extends Shape2D {
 
     private double width;
